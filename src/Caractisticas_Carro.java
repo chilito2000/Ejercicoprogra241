@@ -23,7 +23,7 @@ public class Caractisticas_Carro extends Main {
         miCarro.cerrarPuertas();
         miCarro.llenarTanque();
 
-        
+
         miCarro.activarAireAcondicionado();
         miCarro.desactivarAireAcondicionado();
     }
